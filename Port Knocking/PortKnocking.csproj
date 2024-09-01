@@ -7,8 +7,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Platforms>AnyCPU;x64</Platforms>
-    <AssemblyName>Port Knoking</AssemblyName>
+    <AssemblyName>Port Knocking</AssemblyName>
     <ApplicationIcon>Media\Icon.ico</ApplicationIcon>
+    <Company>Kukur</Company>
+    <Copyright>Kukur</Copyright>
+    <Description>Программа для реализации Port Knoking на различных сетевых устройствах </Description>
   </PropertyGroup>
 
   <ItemGroup>
